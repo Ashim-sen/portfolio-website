@@ -14,4 +14,3 @@ A simple responsive portfolio website built with HTML, CSS &amp; JavaScript.
 Open `index.html` in any web browser.
 
 ## Screenshot
-![Screenshot](images/profile.png)
